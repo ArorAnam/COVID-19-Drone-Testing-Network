@@ -14,7 +14,7 @@ def SendPatientData():
     #Simply comment out the ones not being used
 
     #Test case 1 - Valid ID
-    GPS = "P 65 CFTA 98.765 98.765"
+    GPS = "P 35 TF 98.800 98.800"
 
     #Test case 2 - Not Valid ID
     #GPS = "100000000 98.765 98.765"
